@@ -1,6 +1,8 @@
 ## 0.0.2
-* Add Windows support for keyboard shortcut mapping plugin
 
+* Fix: Shortened package description for pub.dev compliance
+* Fix: Added issue_tracker URL to pubspec.yaml
+* Feat: Add Windows support for keyboard shortcut mapping plugin
 
 ## 0.0.1
 
